@@ -95,7 +95,7 @@ During the development process I faced the following challenges:-
 
 - Kaavya & Saloni: Working with SASS and its variables for the 1st time 
 - Saloni: Using Twitter API for the first time
-- Akshat: We working with Django for the 1st time therefore errors came up frequently which were solved by taking hep of various online communities and websites.
+- Akshat: We working with Django for the 1st time therefore errors came up frequently which were solved by taking help of various online communities and websites.
 
 ## Demo
 
